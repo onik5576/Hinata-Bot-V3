@@ -32,13 +32,13 @@ module.exports = {
                         noInput: "× বেবি, কী সার্চ করতে চাও বলো! 🔍\nউদাহরণ: {pn} naruto",
                         tooLarge: "× ভিডিওটি অনেক বড় (২৫ মেগাবাইটের বেশি)। অন্য কিছু সার্চ করো!",
                         success: "• 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐓𝐢𝐤𝐓𝐨𝐤 𝐄𝐝𝐢𝐭 𝐕𝐢𝐝𝐞𝐨.\n• 𝐒𝐞𝐚𝐫𝐜𝐡: %1",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact 𝗖. 𝗘. 𝗢 𝗢𝗻𝗶𝗸 𝗦!𝗥"
                 },
                 en: {
                         noInput: "× Baby, what do you want to search? 🔍\nExample: {pn} naruto",
                         tooLarge: "× Video is too large (25MB+). Try another keyword!",
                         success: "• 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐓𝐢𝐤𝐓𝐨𝐤 𝐄𝐝𝐢𝐭 𝐕𝐢𝐝𝐞𝐨.\n• 𝐒𝐞𝐚𝐫𝐜𝐡: %1",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact 𝗢𝗻𝗶𝗸 𝗦!𝗥 for help."
                 },
                 vi: {
                         noInput: "× Cưng ơi, cưng muốn tìm kiếm gì? 🔍\nVí dụ: {pn} naruto",
